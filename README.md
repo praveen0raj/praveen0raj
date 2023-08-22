@@ -4,6 +4,8 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen0raj&label=Profile%20views&color=0e75b6&style=flat" alt="praveen0raj" /> </p>
+
 - :credit_card: My full name is **Praveen Raj** <img src="https://img.freepik.com/premium-vector/programmer-mascot-logo-design_7737-2817.jpg?w=740" width="400" align="right"/>
 - :school: I loves coding.
 
@@ -72,6 +74,17 @@
 </p>
 
 <br>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen0raj&show_icons=true&locale=en&layout=compact" alt="praveen0raj" />
+</p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen0raj&show_icons=true&locale=en" alt="praveen0raj" />
+</p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen0raj&" alt="praveen0raj" />
+</p>
+
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
