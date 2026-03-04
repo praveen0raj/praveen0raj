@@ -15,7 +15,7 @@ Senior Software Architect with **13+ years** of experience designing and buildin
 - 🚀 **Current Focus:** System Design, High-Performance Computing, DevOps Excellence
 - 💡 **Philosophy:** Clean Code, SOLID Principles, Continuous Learning
 - 📍 **Location:** Delhi, India
-- 🌐 **Connect:** [Twitter/X](https://x.com/prveenraj)
+- 🌐 **Connect:** [Twitter/X](https://x.com/prveenraj)   [Linkedin](https://www.linkedin.com/in/praveendce/)
 
 ---
 
