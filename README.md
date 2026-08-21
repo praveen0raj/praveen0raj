@@ -78,7 +78,7 @@ Senior Software Architect with **14+ years** of experience designing and buildin
 ## 🏆 Professional Highlights
 
 ```text
-💼 13+ Years in Software Architecture & Engineering
+💼 14+ Years in Software Architecture & Engineering
 🎯 Led 25+ High-Impact Projects from Concept to Production
 👥 Mentored 50+ Engineers in System Design & Best Practices
 🚀 Designed Systems Serving 10M+ Users
