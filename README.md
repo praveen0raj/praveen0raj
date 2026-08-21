@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-Senior Software Architect with **13+ years** of experience designing and building scalable, distributed systems. Passionate about solving complex technical challenges and leading engineering teams to deliver high-impact solutions.
+Senior Software Architect with **14+ years** of experience designing and building scalable, distributed systems. Passionate about solving complex technical challenges and leading engineering teams to deliver high-impact solutions.
 
 - 🏗️ **Architecture Expertise:** Microservices, Event-Driven, Domain-Driven Design (DDD)
 - ☁️ **Cloud Native:** AWS, Docker, Kubernetes, Serverless Architecture
